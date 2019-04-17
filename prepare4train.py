@@ -1,0 +1,3 @@
+import clean_helper
+
+clean_helper.load_data_and_labels_another()
